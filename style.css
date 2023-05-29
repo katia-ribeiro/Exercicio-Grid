@@ -1,0 +1,8 @@
+.container{
+    display:grid;
+    grid-template-columns: 1fr 1fr 3fr ;
+    padding: 2%;
+    background-image: url(https://storage.alboom.ninja/sites/590/media/matriz_capa_fa12d8d85b36.jpg?t=1610210254);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
