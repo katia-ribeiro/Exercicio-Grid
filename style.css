@@ -5,4 +5,19 @@
     background-image: url(https://storage.alboom.ninja/sites/590/media/matriz_capa_fa12d8d85b36.jpg?t=1610210254);
     background-repeat: no-repeat;
     background-size: cover;
+    gap: 10px;
+}
+.sub2{
+    display: grid;
+    grid-template-rows: auto;
+    
+}
+.item5{
+    grid-row: 1;
+   
+}
+.sub3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
 }
